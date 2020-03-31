@@ -1,4 +1,4 @@
-## Welcome to My MarketPlace
+## Welcome to My Market Place
 
 You can use the [editor on GitHub](https://github.com/Major-League-Gaming/MajorsMarket.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1: Talk
+## Header 2: Trade
+### Header 3: Buy
 
 - Bulleted
 - List
