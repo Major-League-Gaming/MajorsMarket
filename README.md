@@ -1,4 +1,4 @@
-## Welcome to My Market Place
+## Welcome to My MarketPlace
 
 You can use the [editor on GitHub](https://github.com/Major-League-Gaming/MajorsMarket.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
