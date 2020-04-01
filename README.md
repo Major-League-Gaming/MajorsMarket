@@ -13,26 +13,24 @@ Syntax highlighted code block
 
 ## 1. House of Yang
 
-### A. Information
+### A. >Tell Me About Yourself
+
+- [My Resume](https://www.google.com/)
+- [My BragSheet](https://www.google.com/)
+- [My College List](https://www.google.com/)
+
+### B. >What Are You Plans?
 
 - [My Resume](https://www.google.com/)
 - [My Information](https://www.google.com/)
 - [My College List](https://www.google.com/)
-- []
 
-### B. Fortunes
-
-- [My Resume](https://www.google.com/)
-- [My Information](https://www.google.com/)
-- [My College List](https://www.google.com/)
-- []
-
-### C. Communicate
+### C. >Let's Keep in Touch.
 
 - [My Youtube Channel](https://www.google.com/)
 - [My Twitter Feed](https://www.google.com/)
 - [My Instagram Page](https://www.google.com/)
-- [My Gmail] (https://www.google.com/)
+- [My Gmail](https://www.google.com/)
 
 ## 2. The Southern Cottages
 
