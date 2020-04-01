@@ -10,12 +10,30 @@ Syntax highlighted code block
 
 ## 1. Talk
 
-### Information
+### A. Information
+
 ```markdown
 - [My Resume](url)
 - [My Information](url)
 - [My College List](url)
 - []
+```
+
+### B. Fortunes
+
+```markdown
+- [My Resume](url)
+- [My Information](url)
+- [My College List](url)
+- []
+```
+
+### C. Contacts
+
+```markdown
+- [My Youtube Channel](url)
+- [My Twitter Feed](url)
+- [My Instagram Page](url)
 ```
 
 ## 2. Trade
