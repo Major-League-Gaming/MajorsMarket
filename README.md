@@ -28,12 +28,13 @@ Syntax highlighted code block
 - []
 ```
 
-### C. Contacts
+### C. Communicate
 
 ```markdown
 - [My Youtube Channel](https://www.google.com/)
 - [My Twitter Feed](https://www.google.com/)
 - [My Instagram Page](https://www.google.com/)
+- [My Gmail] (https://www.google.com/)
 ```
 
 ## 2. The Southern Cottages
